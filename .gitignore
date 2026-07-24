@@ -1,0 +1,8 @@
+# Brainstorming notes (kept local)
+brainstorming/
+
+# Python virtual environment
+.venv/
+
+# macOS
+.DS_Store
